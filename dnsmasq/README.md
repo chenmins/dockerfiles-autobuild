@@ -10,5 +10,5 @@ docker run -d --restart always \
             -e SNIPROXY=${SNIPROXY} \
             -p 53:53/udp -p 53:53/tcp  \
             --name dnsmasq  \
-        uyinn28/dnsmasq
+        chenmins/dnsmasq
 ```

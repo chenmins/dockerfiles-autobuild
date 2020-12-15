@@ -451,6 +451,9 @@ address=/.dw.com/${SNIPROXY}
 address=/.diggbt.net/${SNIPROXY}
 address=/.nissanforums.com/${SNIPROXY}
 address=/.gcr.io/${SNIPROXY}
+address=/.docker.io/${SNIPROXY}
+address=/.quay.io/${SNIPROXY}
+
 
 # Country
 address=/.jp/${SNIPROXY}
