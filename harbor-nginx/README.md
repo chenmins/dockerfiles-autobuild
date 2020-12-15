@@ -5,8 +5,7 @@
 
 ```bash
 docker run -d --restart always \
-            -e SNIPROXY=${SNIPROXY} \
             -p 80:80 -p 443:443  \
-            --name dnsmasq  \
+            --name harbor-nginx  \
         chenmins/harbor-nginx
 ```
