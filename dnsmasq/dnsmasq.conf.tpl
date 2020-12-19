@@ -453,6 +453,7 @@ address=/.nissanforums.com/${SNIPROXY}
 address=/.gcr.io/${SNIPROXY}
 address=/.docker.io/${SNIPROXY}
 address=/.quay.io/${SNIPROXY}
+address=/harbor.chenmin.org/${SNIPROXY}
 
 
 # Country
